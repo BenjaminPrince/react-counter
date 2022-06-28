@@ -4,9 +4,9 @@ export default class Greeting extends React.Component {
     render() {
       
         return (
-        //  
-         <h1>I greet you {this.props.count} times </h1>
          
+         <h1>I greet you {this.props.count} times </h1>
+       
         );
     }
 }

@@ -26,6 +26,9 @@ export default class Count extends React.Component {
     }
 }
 
+
+
+
 // TODO : Importer le composant Greeting
 // TODO : Initialiser le state "count" à 0 dans le constructeur
 // TODO : Implémenter le code de la fonction increment() afin qu'il incrémente le state "count"
