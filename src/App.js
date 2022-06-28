@@ -9,9 +9,7 @@ class App extends React.Component {
             <div className="App">
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo" />
-                    <div class="count">
-                        <h3>Count:</h3>
-                    </div>
+                    <Count/>
                 </header>
             </div>
         );
