@@ -18,6 +18,6 @@ class App extends React.Component {
     }
 }
 
-export default AppClass;
+export default App;
 
 // TODO : Inclure le composant Count sous le logo
